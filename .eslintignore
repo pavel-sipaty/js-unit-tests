@@ -1,0 +1,6 @@
+node_modules
+coverage
+mochawesome-report
+.husky
+artefacts
+report
