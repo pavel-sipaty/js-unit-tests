@@ -5,7 +5,7 @@
   "description": "automation project on js",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter mochawesome",
+    "test": "mocha",
     "coverage": "c8 npm test",
     "lint": "eslint ./ --fix",
     "prepare": "husky install"
